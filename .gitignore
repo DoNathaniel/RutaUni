@@ -1,0 +1,10 @@
+# Main
+.env.dev
+.env.prod
+
+# Server
+server/node_modules
+server/logs/*
+
+# Client
+client/node_modules
